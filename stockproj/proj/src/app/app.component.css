@@ -1,0 +1,12 @@
+.black-background{
+    background-color: black;
+    color: white;
+}
+.top-space{
+    top:auto;
+}
+.bottom-caret{
+    padding: 20px 12px 0px 12px;
+    /* z-index: 1030; */
+    border-radius: 50%;
+}
