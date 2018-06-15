@@ -7,6 +7,7 @@ import { MainMenuComponent } from './main-menu/main-menu.component';
 import {SecondaryRoutingModule} from './featured.route';
 import { InvestmentAnalyticsComponent } from './investment-analytics/investment-analytics.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
+
 @NgModule({
   imports: [
     CommonModule, SharedModule, SecondaryRoutingModule
